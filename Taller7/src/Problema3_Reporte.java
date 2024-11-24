@@ -32,21 +32,16 @@ public class Problema3_Reporte {
     }
 }
 /**
- * run:
- * Ingrese el nombre, dias trabajados y costo por dia del trabajador_1: Juan 10 2,5
- * |Nombre| Dias Trabajados|	Costo Por Dia|	Pago|
- * |Juan	|	10,00	|	2,50	|	25,00	|
- * Ingrese el nombre, dias trabajados y costo por dia del trabajador_2: Carlos 11 2
- * |Nombre| Dias Trabajados|	Costo Por Dia|	Pago|
- * |Carlos	|	11,00	|	2,00	|	22,00	|
- * Ingrese el nombre, dias trabajados y costo por dia del trabajador_3: Maria 9 3
- * |Nombre| Dias Trabajados|	Costo Por Dia|	Pago|
- * |Maria	|	9,00	|	3,00	|	27,00	|
- * Ingrese el nombre, dias trabajados y costo por dia del trabajador_4: Dario 5 4
- * |Nombre| Dias Trabajados|	Costo Por Dia|	Pago|
- * |Dario	|	5,00	|	4,00	|	20,00	|
- * Ingrese el nombre, dias trabajados y costo por dia del trabajador_5: Andres 12 2
- * |Nombre| Dias Trabajados|	Costo Por Dia|	Pago|
- * |Andres	|	12,00	|	2,00	|	24,00	|
-BUILD SUCCESSFUL (total time: 48 seconds)
+ * run: Ingrese el nombre, dias trabajados y costo por dia del trabajador_1:
+ * Juan 10 2,5 |Nombre| Dias Trabajados|	Costo Por Dia|	Pago| |Juan	|	10,00	|
+ * 2,50	|	25,00	| Ingrese el nombre, dias trabajados y costo por dia del
+ * trabajador_2: Carlos 11 2 |Nombre| Dias Trabajados|	Costo Por Dia|	Pago|
+ * |Carlos	|	11,00	|	2,00	|	22,00	| Ingrese el nombre, dias trabajados y costo
+ * por dia del trabajador_3: Maria 9 3 |Nombre| Dias Trabajados|	Costo Por Dia|
+ * Pago| |Maria	|	9,00	|	3,00	|	27,00	| Ingrese el nombre, dias trabajados y
+ * costo por dia del trabajador_4: Dario 5 4 |Nombre| Dias Trabajados|	Costo Por
+ * Dia|	Pago| |Dario	|	5,00	|	4,00	|	20,00	| Ingrese el nombre, dias trabajados
+ * y costo por dia del trabajador_5: Andres 12 2 |Nombre| Dias Trabajados|	Costo
+ * Por Dia|	Pago| |Andres	|	12,00	|	2,00	|	24,00	| BUILD SUCCESSFUL (total time:
+ * 48 seconds)
  */
